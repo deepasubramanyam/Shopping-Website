@@ -1,10 +1,6 @@
-# Shopping-Website
-created Using php,html,css,js
- This is a simple online website of 5 category
- 
- 
- Products are stored in database
- 
- 
- For backend Php used and for the frontend Javascript,css,html are used
+### Shopping-Website
+A Website to showcase the products using HTML, CSS, JS, PHP.
+
+This is a simple online website comprises of  four categories.
+Products are stored in database
  
